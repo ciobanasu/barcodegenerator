@@ -1,0 +1,12 @@
+C:\Users\nikus\Downloads\VisualStudioProjects\Bar Code Generator\Bar Code Generator\bin\Debug\Bar Code Generator.exe.config
+C:\Users\nikus\Downloads\VisualStudioProjects\Bar Code Generator\Bar Code Generator\bin\Debug\Bar Code Generator.exe
+C:\Users\nikus\Downloads\VisualStudioProjects\Bar Code Generator\Bar Code Generator\bin\Debug\Bar Code Generator.pdb
+C:\Users\nikus\Downloads\VisualStudioProjects\Bar Code Generator\Bar Code Generator\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\nikus\Downloads\VisualStudioProjects\Bar Code Generator\Bar Code Generator\obj\Debug\Bar Code Generator.csprojAssemblyReference.cache
+C:\Users\nikus\Downloads\VisualStudioProjects\Bar Code Generator\Bar Code Generator\obj\Debug\Bar_Code_Generator.Form1.resources
+C:\Users\nikus\Downloads\VisualStudioProjects\Bar Code Generator\Bar Code Generator\obj\Debug\Bar_Code_Generator.Properties.Resources.resources
+C:\Users\nikus\Downloads\VisualStudioProjects\Bar Code Generator\Bar Code Generator\obj\Debug\Bar Code Generator.csproj.GenerateResource.cache
+C:\Users\nikus\Downloads\VisualStudioProjects\Bar Code Generator\Bar Code Generator\obj\Debug\Bar Code Generator.csproj.CoreCompileInputs.cache
+C:\Users\nikus\Downloads\VisualStudioProjects\Bar Code Generator\Bar Code Generator\obj\Debug\Bar Code Generator.csproj.CopyComplete
+C:\Users\nikus\Downloads\VisualStudioProjects\Bar Code Generator\Bar Code Generator\obj\Debug\Bar Code Generator.exe
+C:\Users\nikus\Downloads\VisualStudioProjects\Bar Code Generator\Bar Code Generator\obj\Debug\Bar Code Generator.pdb
